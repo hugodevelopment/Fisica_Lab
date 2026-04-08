@@ -1,0 +1,7 @@
+# requirements.txt
+sympy
+pandas
+openpyxl
+numpy
+scipy
+python-docx
