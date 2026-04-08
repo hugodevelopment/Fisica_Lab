@@ -1,4 +1,3 @@
-# Fisica_Lab
 # FísicaLab 🔬
 
 > *"Automatizando o que todo estudante de Física faz na mão."*
