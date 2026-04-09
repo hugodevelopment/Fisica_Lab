@@ -146,6 +146,13 @@ Cada módulo tem uma responsabilidade única. Isso facilita adicionar novos tipo
 
 ---
 
+🛠️ Tecnologias
+- Python
+- Pandas
+- Numpy
+- Sympy
+- OpenPyXL / Docx
+
 ## Autor
 
 **Hugo Alves da Costa**
