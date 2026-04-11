@@ -58,9 +58,12 @@ executar(
 ─────────────────────────────────────────────
 ```
 
-O que antes levava horas vira segundos.
+O que antes levava horas vira segundos. Exemplo abaixo do arquivo gerado em Word:
 
 ---
+
+![c29e0a4c-3b67-4bed-9225-7677404f74b4](https://github.com/user-attachments/assets/6da63787-cb1b-4bb3-879c-69beeea070b5)
+
 
 ## Por que isso importa
 
